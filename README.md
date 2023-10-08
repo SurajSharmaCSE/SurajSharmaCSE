@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurajSharmaCSE.
-- 👀 I’m interested in Software Development
+- 👀 Software Engineer at CISCO 
 - 👯 I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
 - 📫 How to reach me: thisissurajsharma1@gmail.com
 - 💻I am actively looking for jobs for the role of SDE.
