@@ -53,7 +53,7 @@
 
 ***
 # Projects
-1. Jockes Generator - 
+1. Jockes Generator - https://surajsharmacse.github.io/JokesGenerator/
 
 
 
