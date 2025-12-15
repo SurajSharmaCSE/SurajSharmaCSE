@@ -56,11 +56,12 @@
 1. Excel Project - https://surajsharmacse.github.io/Excel_Project/
 2. Jira Ticket - https://surajsharmacse.github.io/Jira_Ticket/
 3. Camera Application - https://surajsharmacse.github.io/Camera_Gallery-Application/
-4. ToDo App - https://surajsharmacse.github.io/To_Do_APP/
-5. ToDo APP-2 - [https://surajsharmacse.github.io/ToDo_ReactApp/](https://surajsharmacse.github.io/ToDo_ReactApp/)
-6. Jockes Generator - https://surajsharmacse.github.io/JokesGenerator/
-7. Gym Website - https://surajsharmacse.github.io/GYM_Website_Clone/
-8. Flipkart Clone - https://surajsharmacse.github.io/E_Commerce_Project/
+4. Movies_App - https://surajsharmacse.github.io/Movies_App/
+5. ToDo App - https://surajsharmacse.github.io/To_Do_APP/
+6. ToDo APP-2 - [https://surajsharmacse.github.io/ToDo_ReactApp/](https://surajsharmacse.github.io/ToDo_ReactApp/)
+7. Jockes Generator - https://surajsharmacse.github.io/JokesGenerator/
+8. Gym Website - https://surajsharmacse.github.io/GYM_Website_Clone/
+9. Flipkart Clone - https://surajsharmacse.github.io/E_Commerce_Project/
 
 
 
